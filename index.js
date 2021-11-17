@@ -66,7 +66,7 @@ try{
             subject:"Link To Rest Password",
             text:
             "you ar receiving this you requested to reset of the password.\n.\n"
-            +"http://localhost:3001/passwordreset"
+            +"http://password-reset-flow-mern.netlify.app/passwordreset"
         }
         console.log("sending mail")
 
